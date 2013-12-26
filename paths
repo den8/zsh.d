@@ -10,6 +10,8 @@ else
     export PATH=/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:$PATH
 fi
 
+export PATH=$PATH:/usr/local/mysql/bin
+
 ##
 #  my program
 if [ -x $HOME/bin ]; then
