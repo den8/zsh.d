@@ -10,12 +10,6 @@ zsh.d
 brew install coreutils
 ```
 
-## for MacPorts
-
-```
-sudo port install coreutils
-```
-
 # Set up
 
 ```
