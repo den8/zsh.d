@@ -13,7 +13,7 @@ brew install coreutils
 # Set up
 
 ```
-git clone git://github.com/n-sakuma/zsh.d.git ~/.zsh.d
+git clone git://github.com/den8/zsh.d.git ~/.zsh.d
 
 ln -s ~/.zsh.d/dot.zprofile ~/.zprofile
 
